@@ -7,7 +7,7 @@ export default function AboutPage() {
     <div className="mx-auto max-w-3xl px-6 py-6">
       <div className="flex justify-center">
         <Image
-          src="/images/learning-to-code/IMG_5249.png"
+          src="/images/learning-to-code/IMG_5249.PNG"
           alt="Alex Parrott"
           width={400}
           height={400}
