@@ -54,15 +54,6 @@ export const WritingTabs = (props: Props) => {
                   <p className="text-sm sm:text-base italic text-zinc-600 dark:text-zinc-400">
                     {post.excerpt}
                   </p>
-
-                  {/* {post.tags.map((tag, index) => (
-                    <span
-                      key={tag}
-                      className="text-xs text-zinc-500 dark:text-zinc-400"
-                    >
-                      {`${index > 0 ? " • " : ""}${tag}`}
-                    </span>
-                  ))} */}
                 </div>
               </Link>
             </li>
