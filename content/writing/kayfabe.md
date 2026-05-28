@@ -56,7 +56,7 @@ So he left. Rebuilt himself somewhere else. And came back as something transform
 
 Now here he was at WrestleMania.
 
-On his knees in the ring, finally holding the championship belt above his head while an entire arena erupted around him.
+On his knees in the ring, holding the championship belt above his head while an entire arena erupted around him.
 
 Finally, a real-life Rocky story I could actually believe in.
 
