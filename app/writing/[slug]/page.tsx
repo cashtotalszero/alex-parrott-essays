@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { HeroImage } from "@/components/HeroImage";
+import { EssayMetaData } from "@/components/EssayMetaData";
 import { getAllPostSlugs, getPostBySlug } from "@/lib/posts";
 
 export async function generateStaticParams() {
@@ -54,9 +55,7 @@ export default async function PostPage({
   return (
     <article className="mx-auto max-w-3xl px-6 py-4">
       <header className="mt-6">
-        <time className="text-sm text-zinc-500 dark:text-zinc-400">
-          {`Essays • ${post.readingTime} min read`}
-        </time>
+        <EssayMetaData readingTime={post.readingTime} />
 
         <h1 className="mt-2 text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50">
           {post.title}
