@@ -7,10 +7,9 @@ readingTime: "5"
 tags: "luck,careers,tech-culture,tv,success"
 hero:
   src: "/images/music-of-chance/the-office.png"
-  alt: "Summit view at sunrise"
+  alt: "An office scene with a 'World's Best Boss' mug"
   size: wide
   objectPosition: "bottom 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/game-over"
 next: "/writing/its-all-pop"

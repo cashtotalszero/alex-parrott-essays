@@ -7,10 +7,9 @@ readingTime: "4"
 tags: "music,tech-culture,identity,tribalism"
 hero:
   src: "/images/its-all-pop/guitar.png"
-  alt: "Summit view at sunrise"
+  alt: "A guitar and microphone stand on stage in a full venue"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/music-of-chance"
 next: "/writing/kayfabe"

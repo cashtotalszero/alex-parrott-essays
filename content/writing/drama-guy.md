@@ -6,10 +6,9 @@ excerpt: "An adventure in personality change"
 readingTime: "4"
 hero:
   src: "/images/drama-guy/stage.png"
-  alt: "Summit view at sunrise"
+  alt: "A stool on an empty theatre stage with an open door in the background"
   size: wide
   objectPosition: "bottom 50%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/never-about-football"
 next: "/writing/imposter-syndrome"

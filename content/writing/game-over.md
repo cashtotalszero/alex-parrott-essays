@@ -7,10 +7,9 @@ readingTime: "3"
 tags: "adaptation,AI,careers,resilience"
 hero:
   src: "/images/game-over/tea-time.png"
-  alt: "Summit view at sunrise"
+  alt: "Lady drinking tea with a spacecraft crashed in her living room"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 next: "/writing/music-of-chance"
 ---

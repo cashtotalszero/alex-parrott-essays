@@ -7,10 +7,9 @@ readingTime: "4"
 tags: "tech-culture,identity,leadership,wrestling"
 hero:
   src: "/images/kayfabe/cody.png"
-  alt: "Summit view at sunrise"
+  alt: "A wrestler posing in the ring to a crowd of suited fans"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/its-all-pop"
 next: "/writing/inspiration"

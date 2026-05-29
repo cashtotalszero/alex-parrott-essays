@@ -1,15 +1,14 @@
 ---
 title: "The Event Horizon"
 date: "2026-01-30"
-order: 14
+order: 15
 excerpt: "or: How I Learned to Stop Worrying and Love AI"
 readingTime: "4"
 hero:
   src: "/images/event-horizon/haircut.png"
-  alt: "Summit view at sunrise"
+  alt: "An AI robot shaving Alex's head"
   size: wide
   objectPosition: "center 20%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/just-keep-walking"
 ---

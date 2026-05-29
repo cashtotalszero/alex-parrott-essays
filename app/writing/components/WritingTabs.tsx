@@ -38,7 +38,6 @@ export const WritingTabs = (props: Props) => {
                   <Image
                     src={post.hero?.src ?? ""}
                     alt={post.hero?.alt ?? ""}
-                    // fill
                     priority
                     width={50}
                     height={50}

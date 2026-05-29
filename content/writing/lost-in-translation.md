@@ -7,10 +7,9 @@ readingTime: "4"
 tags: "nostalgia,identity,ageing,movies"
 hero:
   src: "/images/lost-in-translation/suntory-time.png"
-  alt: "Summit view at sunrise"
+  alt: "A glass of whiskey in the window over looking Japanese neon lights"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/imposter-syndrome"
 next: "/writing/picards-legacy"

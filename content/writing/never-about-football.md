@@ -7,10 +7,9 @@ readingTime: "5"
 tags: "football,leadership,resilience,careers,growth"
 hero:
   src: "/images/never-about-football/villa.png"
-  alt: "Summit view at sunrise"
+  alt: "Villa Park at night with fireworks going off"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/not-listening"
 next: "/writing/drama-guy"

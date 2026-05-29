@@ -7,10 +7,9 @@ readingTime: "4"
 tags: "communication,psychology,relationships"
 hero:
   src: "/images/not-listening/quiet.png"
-  alt: "Summit view at sunrise"
+  alt: "A cartoon of a woman surrounded by message notifications"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/inspiration"
 next: "/writing/never-about-football"

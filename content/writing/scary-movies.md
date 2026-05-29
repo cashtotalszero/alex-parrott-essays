@@ -1,18 +1,17 @@
 ---
 title: "Do You Like Scary Movies?"
 date: "2026-01-30"
-order: 12
+order: 13
 excerpt: "Why horror movies understand innovation better than tech"
 readingTime: "4"
 tags: "movies,horror,tech-culture,creativity"
 hero:
   src: "/images/scary-movies/final-girl.png"
-  alt: "Summit view at sunrise"
+  alt: "Silhouette of a final girl figure backlit in red"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
-prev: "/writing/picards-legacy"
+prev: "/writing/all-on-black"
 next: "/writing/just-keep-walking"
 ---
 

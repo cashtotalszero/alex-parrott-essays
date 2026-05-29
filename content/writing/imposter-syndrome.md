@@ -7,10 +7,9 @@ readingTime: "4"
 tags: "mountains,growth,fear,AI,confidence"
 hero:
   src: "/images/imposter-syndrome/IMG_4615.jpeg"
-  alt: "Summit view at sunrise"
+  alt: "Mount Fitz Roy overlooking a lake"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/drama-guy"
 next: "/writing/lost-in-translation"

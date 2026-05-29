@@ -5,10 +5,9 @@ excerpt: "Every developer has an origin story..."
 readingTime: "8"
 hero:
   src: "/images/learning-to-code/IMG_5250.JPG"
-  alt: "Summit view at sunrise"
+  alt: "Alex"
   size: portrait
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 ---
 

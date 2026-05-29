@@ -7,14 +7,12 @@ readingTime: "6"
 tags: "tv,legacy,leadership,tech-culture,masculinity"
 hero:
   src: "/images/picards-legacy/picard.png"
-  alt: "Summit view at sunrise"
+  alt: "A old starship captain looking out at a nebula"
   size: wide
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
-  # fit: contain
   className: "mx-auto max-w-2xl"
 prev: "/writing/lost-in-translation"
-next: "/writing/scary-movies"
+next: "/writing/all-on-black"
 ---
 
 ## The story I thought Picard was going to tell

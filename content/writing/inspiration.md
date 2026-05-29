@@ -7,10 +7,9 @@ readingTime: "5"
 tags: "music,leadership,creativity,morality,tech-culture"
 hero:
   src: "/images/inspiration/imagine.png"
-  alt: "Summit view at sunrise"
+  alt: "The Imagine mosaic in Central Park"
   size: wide
   objectPosition: "bottom 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/kayfabe"
 next: "/writing/not-listening"

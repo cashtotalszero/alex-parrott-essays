@@ -1,16 +1,15 @@
 ---
 title: "Just Keep Walking"
 date: "2026-01-30"
-order: 13
+order: 14
 excerpt: "What mountaineering taught me about learning difficult things."
 readingTime: "4"
 tags: "mountains,growth,learning,discipline"
 hero:
   src: "/images/just-keep-walking/IMG_3164.jpeg"
-  alt: "Summit view at sunrise"
+  alt: "Alex on the summit of Mount Kilimanjaro"
   size: portrait
   objectPosition: "center 30%"
-  # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/scary-movies"
 next: "/writing/event-horizon"
