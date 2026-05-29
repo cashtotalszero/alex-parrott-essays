@@ -13,7 +13,7 @@ hero:
   # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
 prev: "/writing/not-listening"
-next: "/writing/imposter-syndrome"
+next: "/writing/drama-guy"
 ---
 
 ## The people who stay calm eventually change everything

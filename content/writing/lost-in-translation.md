@@ -1,7 +1,7 @@
 ---
 title: "Lost in Translation"
 date: "2026-01-30"
-order: 9
+order: 10
 excerpt: "The strange grief of becoming someone new"
 readingTime: "4"
 tags: "nostalgia,identity,ageing,movies"

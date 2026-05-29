@@ -1,7 +1,7 @@
 ---
 title: "Just Keep Walking"
 date: "2026-01-30"
-order: 12
+order: 13
 excerpt: "What mountaineering taught me about learning difficult things."
 readingTime: "4"
 tags: "mountains,growth,learning,discipline"

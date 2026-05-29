@@ -1,7 +1,7 @@
 ---
 title: "The Event Horizon"
 date: "2026-01-30"
-order: 13
+order: 14
 excerpt: "or: How I Learned to Stop Worrying and Love AI"
 readingTime: "4"
 hero:
@@ -34,7 +34,7 @@ _“And the best part is I didn’t have to write a single line of code!”_
 
 Nope. I did not like that.
 
-Are you saying that most of my job is now reviewing someone else’s code?
+Are you saying that most of my job is now reviewing someone else’s work?
 
 But I _like_ writing code.
 
@@ -58,9 +58,9 @@ As if human engineers had never confidently shipped something catastrophic witho
 
 But somewhere along the line I came around.
 
-This very site you are reading right now was largely conjured into existence through prompting instead of traditional coding.
+This very site you are reading right now was largely conjured into existence through prompting instead of traditional programming.
 
-I’d never used pnpm or Tailwind CSS before. I’d been deep in React Native for years. The last web project I’d scaffolded myself still used yarn and styled-components.
+I’d never used pnpm or Tailwind CSS before. I’d been deep in React Native for years. The last web project I’d scaffolded myself still used yarn and old school styled-components.
 
 It didn’t matter.
 
@@ -80,9 +80,9 @@ Not typing speed, boilerplate, or memorising APIs.
 
 My ability to smell smoke before the AI got a chance to immolate itself.
 
-Watching Composer bend over backwards to recreate old Redux-era workarounds in a modern TanStack world was almost funny. It built four hooks to solve a problem that didn’t even exist anymore.
+Watching a computer bend over backwards to recreate old Redux-era workarounds in a modern TanStack world was almost funny. It built four hooks to solve a problem that didn’t even exist anymore.
 
-Crashing the app on scroll is apparently a small price to pay when all the tests are green.
+Crashing the app within thirty seconds is apparently a small price to pay when all the tests are green.
 
 ### What comes next
 

@@ -1,7 +1,7 @@
 ---
 title: "Do You Like Scary Movies?"
 date: "2026-01-30"
-order: 11
+order: 12
 excerpt: "Why horror movies understand innovation better than tech"
 readingTime: "4"
 tags: "movies,horror,tech-culture,creativity"

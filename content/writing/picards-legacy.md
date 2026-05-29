@@ -1,7 +1,7 @@
 ---
 title: "The Things We Leave Behind"
 date: "2026-01-30"
-order: 10
+order: 11
 excerpt: "The story I thought Picard was going to tell"
 readingTime: "6"
 tags: "tv,legacy,leadership,tech-culture,masculinity"

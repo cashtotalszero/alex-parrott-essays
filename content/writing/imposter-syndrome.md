@@ -1,7 +1,7 @@
 ---
 title: "The Mountain Didn't Change"
 date: "2026-01-30"
-order: 8
+order: 9
 excerpt: "Fear, AI and the stories we tell ourselves about growth"
 readingTime: "4"
 tags: "mountains,growth,fear,AI,confidence"
@@ -12,7 +12,7 @@ hero:
   objectPosition: "center 30%"
   # caption: "The view from the summit."
   className: "mx-auto max-w-2xl"
-prev: "/writing/never-about-football"
+prev: "/writing/drama-guy"
 next: "/writing/lost-in-translation"
 ---
 
