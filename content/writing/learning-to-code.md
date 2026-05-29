@@ -108,13 +108,19 @@ To this day I still measure all other jobs against that one.
 
 I was only there for a couple of years, but I’m still friends with a lot of the people I worked with during that time. Honestly, it was probably the happiest period of my career.
 
-Everything felt exciting.
+Maybe React was inevitable.
 
-The team genuinely loved experimenting with new technology and around then we started hearing more and more about this new front-end library called React.
+I'd spent my adult life chasing whatever looked exciting.
 
-I threw myself into it immediately.
+First it was alternative music.
 
-Looking back now it’s funny how quickly the industry changed. At the time React felt genuinely new and slightly disruptive. Front-end development suddenly became a place where huge ideas were happening very quickly.
+Then it was club nights.
+
+Then it was web development.
+
+React just happened to be the most exciting thing in the room when I walked in.
+
+At the time it felt genuinely new and slightly disruptive. Front-end development suddenly became a place where huge ideas were happening.
 
 Somo was the perfect environment for that kind of energy.
 
@@ -134,7 +140,7 @@ I’d have to leave Somo and go freelance to take it.
 
 At that point though, I could already feel the momentum building in my career, so I took the plunge into contracting.
 
-Honestly, I loved it.
+I loved it.
 
 Running my own business weirdly suited me. I discovered that I’m apparently the kind of person who actually enjoys calculating pension contributions and filing taxes.
 
@@ -158,7 +164,7 @@ Of course, I had absolutely no idea how much the world was about to change.
 
 Early 2020 was a difficult time for me.
 
-Even before COVID-19.
+Even before Covid-19.
 
 My personal life had become complicated and I’d decided to take some time off to travel before committing to another permanent role.
 
@@ -168,7 +174,7 @@ I had essentially chosen unemployment right before the entire world locked down.
 
 Suddenly I had all the time in the world.
 
-I spent my days running, playing PlayStation and reading War and Peace purely because of its size.
+I spent my days running, playing PlayStation and reading War and Peace mostly because it seemed like the sort of challenge lockdown was designed for.
 
 Honestly, applying for Aforza initially felt more like grabbing a life raft than making some grand career plan.
 
@@ -176,7 +182,9 @@ I wasn’t expecting it to become a long-term thing.
 
 But it did.
 
-Very quickly the team trusted me with helping architect major parts of the platform and leading the frontend development across multiple products. I started on the React Native mobile apps before gradually branching into web frontend and backend systems as well.
+Very quickly I found myself helping architect major parts of the platform and leading frontend development across multiple products.
+
+What started as React Native mobile work gradually expanded into web frontend, backend systems and a whole lot more responsibility than I'd originally signed up for.
 
 About eighteen months later I officially moved into a lead role and formed a new team around their latest mobile app.
 
