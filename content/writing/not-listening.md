@@ -72,7 +72,7 @@ These tools were supposed to improve communication.
 
 Yet somehow they often seem to amplify the exact opposite.
 
-But maybe the problem isn’t Slack.
+But maybe the problem isn’t Slack, WhatsApp or Discord.
 
 Maybe it’s us.
 
@@ -98,13 +98,13 @@ More than half the time, you’re not really having a conversation with another 
 
 You’re having one with your own projection of them.
 
-Jon Snow really did know nothing.
+I've had full-blown arguments with people over nothing more than a turn of phrase.
 
-And neither do we.
+Maybe Ygritte was right about Jon Snow after all.
 
 ### Two ears, one mouth
 
-Male-dominated environments can accidentally reward terrible listening habits.
+Some professional environments can accidentally reward terrible listening habits.
 
 Tech is probably the textbook example.
 
