@@ -2,7 +2,7 @@
 title: "All On Black"
 date: "2026-01-30"
 order: 12
-excerpt: "Animals play the long game"
+excerpt: "When Hindsight Is a Bitch"
 readingTime: "3"
 hero:
   src: "/images/all-on-black/roulette.png"
@@ -14,7 +14,7 @@ prev: "/writing/picards-legacy"
 next: "/writing/scary-movies"
 ---
 
-## Animals play the long game
+## When Hindsight Is a Bitch
 
 There’s a culture war happening right now.
 
