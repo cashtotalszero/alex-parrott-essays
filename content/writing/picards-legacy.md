@@ -39,7 +39,7 @@ Another Kirk would have been obvious.
 
 Roddenberry quickly realised this version of Picard had genuine _gravitas_. Honestly, which captain would you rather trust _with your life?_
 
-Picard represented something we rarely see in mainstream media: _a man whose value came not from bravado, conquest or traditional success, but from wisdom, curiosity, mentorship and principle._
+He represented something we rarely see in mainstream media: _a man whose value came not from bravado, conquest or traditional success, but from wisdom, curiosity, mentorship and principle._
 
 Which is why the opening episodes of his final story fascinated me immediately.
 
