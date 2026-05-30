@@ -29,13 +29,13 @@ And this wasn’t the 1970s. This was 2024. The film was _Terrifier 3_.
 
 A movie about a clown.
 
-Or maybe a mime.
+Or is he a mime?
 
 Honestly, it’s hard to tell which.
 
 Maybe it’s because I watched _A Nightmare on Elm Street_ far too young.
 
-Maybe it’s because the most active WhatsApp group on my phone is called “Fright Club”.
+Perhaps because the most active WhatsApp group on my phone is called “Fright Club”.
 
 Either way, I knew immediately:
 
@@ -65,7 +65,7 @@ Director Damien Leone even handled a huge amount of the practical effects work h
 
 And somehow, against all conventional industry logic, a new horror icon was born.
 
-One capable of standing alongside Freddy Krueger or Michael Myers.
+One capable of standing alongside Freddy Krueger and Michael Myers.
 
 Studios had spent decades and hundreds of millions of dollars trying to manufacture that kind of cultural impact.
 
@@ -98,10 +98,6 @@ The genre survives because it embraces outsiders, weirdos and deeply unconventio
 Art the Clown was never going to emerge from a boardroom.
 
 Meanwhile major studios were still busy rebooting _Halloween_ for the fifth time.
-
-Those movies are basically the iPhones of cinema at this point.
-
-There’s a new one every year and after a while you can barely tell them apart anymore.
 
 Horror succeeds because it still allows itself to risk embarrassment.
 
