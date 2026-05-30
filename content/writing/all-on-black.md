@@ -122,4 +122,6 @@ Cats play the long game.
 
 Theo wasn't what I thought I wanted.
 
-Which is probably why he was exactly what I needed.
+Neither was computer science.
+
+But the future has a habit of arriving through doors we almost walk past.
