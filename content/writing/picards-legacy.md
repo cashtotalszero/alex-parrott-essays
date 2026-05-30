@@ -25,7 +25,7 @@ And I’ve always loved Captain Picard.
 
 You don’t see many characters like him in mainstream fiction.
 
-One of my favourite bits of Star Trek trivia is that Gene Roddenberry initially hated the idea of Patrick Stewart playing Jean-Luc Picard. He wanted another James T. Kirk.
+One of my favourite bits of Star Trek trivia is that Gene Roddenberry initially hated the idea of Patrick Stewart playing his new captain. He wanted another James T. Kirk.
 
 Dashing, emotional, impulsive, outwardly charismatic.
 
@@ -37,7 +37,7 @@ Two radically different ideas of masculinity.
 
 Another Kirk would have been obvious.
 
-Roddenberry quickly realised this version of Picard had genuine _gravitas_. Honestly, which captain would you trust more _with your life?_
+Roddenberry quickly realised this version of Picard had genuine _gravitas_. Honestly, which captain would you rather trust _with your life?_
 
 Picard represented something we rarely see in mainstream media: _a man whose value came not from bravado, conquest or traditional success, but from wisdom, curiosity, mentorship and principle._
 
@@ -64,8 +64,6 @@ It became an ellipsis.
 Picard’s heartbreaking line: _“There will be no more Picards.”_ suddenly stopped carrying the same weight.
 
 The story lost some of its pathos because it retreated towards something culturally familiar.
-
-Legacy through bloodline.
 
 The traditional happy ending.
 
