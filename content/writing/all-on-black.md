@@ -46,7 +46,7 @@ But the dogs I knew, I loved.
 
 My Uncle's golden retriever probably did more to bond me to that side of the family than any of my actual cousins.
 
-Then, when I moved to Vancouver in 2007, a Canadian friend trusted me to look after her Rottweiler while she went home to Ontario.
+Then, when I moved to Vancouver in my 20s, a Canadian friend trusted me to look after her Rottweiler while she went home to Ontario.
 
 Yeah. I started with a Rottweiler.
 
